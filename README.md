@@ -1,10 +1,6 @@
 ![Memory Game made with Flutter by theindianappguy](https://user-images.githubusercontent.com/55942632/81511415-f2d84c00-9336-11ea-9879-e39e0638d2cb.png)
 
-Sharpen your memory and spend time playing this fun memory game made with flutter, taught on youtube.
-
-## Getting Started
-
-Memory Game Conneting similar images game made with Flutter.
+Sharpen your memory and spend time playing this fun memory game made with flutter, taught on youtube, Memory Game Conneting similar images game made with Flutter.
 
 ### Created & Maintained By
 
