@@ -6,9 +6,12 @@ Sharpen your memory and spend time playing this fun memory game made with flutte
 
 [Sanskar Tiwari](https://github.com/theindianappguy) ([@theindianappguy](https://twitter.com/Theindianappguy)) ([YouTube](https://www.youtube.com/c/SanskarTiwari))
 
+> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
 > 
->
-> - [PayPal](https://paypal.me/iamsanskartiwari)
+> - [buymeacoffee](https://www.buymeacoffee.com/sanskartiwari)
+
+> You can also nominate me for Github Star developer program
+> https://stars.github.com/nominate
 
 ### License
 
